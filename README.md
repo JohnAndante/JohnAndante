@@ -1,2 +1,2 @@
-Olá! Sou Walker Silvestre
+Hi, I am Walker Silvestre!
 
