@@ -1,8 +1,8 @@
 ### Olá visitante 👋, meu nome é Walker Silvestre.
 ### Seja bem-vindo ao meu perfil! 💻
 
-- 🔭 No momento trabalho principalmente com Ruby, Php e Java
-- 🌱 Estudo atualmente React, RoR, C# e Javascript.
+- 🔭 No momento trabalho principalmente com Ruby, Javascript e Java
+- 🌱 Estudo atualmente React, Flutter, RoR, C# e Javascript.
 - 📫 Pode entrar em contato através: wlksilvestre@gmail.com
 - ⚡ Entusiasta dos games e de artes visuais
 
@@ -14,8 +14,11 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Js"    height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Ruby"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg">
+  <img align="center" alt="PHP"   height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" alt="HTML"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS"   height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Android Studio"    height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-plain.svg">
 </div>
   
   ##
