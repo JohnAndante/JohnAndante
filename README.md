@@ -2,15 +2,15 @@
 ### Seja bem-vindo ao meu perfil! 💻
 
 ## Sobre Mim
-- 🔭 No momento trabalho principalmente com Ruby, Javascript e Java
+- 🔭 No momento trabalho principalmente com Ruby, Javascript e Java.
 - 🌱 Estudo atualmente React, Flutter, RoR, C# e Javascript.
-- 📫 Pode entrar em contato através: wlksilvestre@gmail.com
+- 📫 Pode entrar em contato através do email [wlksilvestre@gmail.com](mailto:wlksilvestre@gmail.com)
 - ⚡ Entusiasta dos games e de artes visuais
 
 <div align="center">
-  <a href="https://github.com/JohnAndante">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=johnandante&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnandante&layout=compact&langs_count=7&theme=dark"/>
+  <a href="https://github.com/johnandante">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=johnandante&show_icons=true&theme=aura_dark&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnandante&layout=compact&langs_count=7&theme=aura_dark"/>
 </div>
   
 ## Tecnologias que tive algum contato
@@ -33,6 +33,6 @@
  
   ##
   
-  ![Snake animation](https://github.com/JohnAndante/JohnAndante/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/johnandante/JohnAndante/blob/output/github-contribution-grid-snake.svg)
  
 
