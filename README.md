@@ -4,6 +4,7 @@
 ## Sobre Mim
 - 🔭 No momento trabalho principalmente com Ruby, Javascript e Java.
 - 🌱 Estudo atualmente React, Flutter, RoR, C# e Javascript.
+- 📚 Utilizo as plataformas de estudo da Alura e da Rocketseat.
 - 📫 Pode entrar em contato através do email [wlksilvestre@gmail.com](mailto:wlksilvestre@gmail.com).
 - ⚡ Entusiasta dos games e de artes visuais.
 
