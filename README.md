@@ -1,5 +1,4 @@
-# Olá visitante 👋, meu nome é Walker Silvestre.
-### Seja bem-vindo ao meu perfil! 💻
+# Olá 🤘, meu nome é Walker Silvestre.
 
 ## Sobre Mim
 - 🔭 No momento trabalho principalmente com Ruby, Javascript e Java.
