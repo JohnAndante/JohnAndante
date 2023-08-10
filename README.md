@@ -3,26 +3,28 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=johnandante&label=Profile%20views&color=0e75b6&style=flat" alt="johnandante" /> </p>
 
-- 🔭 Estou atualmente trabalhando com **alguns projetos privados de uma empresa**
+🔭 Estou atualmente trabalhando com **alguns projetos privados de uma empresa**
 
-- 🌱 Atualmente estou aprendendo **React, Typescript e Flutter**
+🌱 Atualmente estou aprendendo **React, Typescript e Flutter**
 
-- 👨‍💻 Possuo alguns pequenos templates e estudos em meu [CodePen](https://codepen.io/johnandante)
+👨‍💻 Possuo alguns pequenos templates e estudos em meu [**CodePen**](https://codepen.io/johnandante)
 
-- 📫 Entre em contato através do email [wlksilvestre@gmail.com](mailto:wlksilvestre@gmail.com).
+📫 Entre em contato através do email [**wlksilvestre@gmail.com**](mailto:wlksilvestre@gmail.com)
 
-- ⚡ **Faço desenhos, sou apaixonado por jogos e tecnologia no geral**
+⚡ **Faço desenhos, sou apaixonado por jogos e tecnologia no geral**
 
-
+##
 
 <div align="center">
   <a href="https://github.com/johnandante">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=johnandante&show_icons=true&theme=aura_dark&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnandante&layout=compact&langs_count=7&theme=aura_dark"/>
 </div>
+
+  ##
   
-<h3 aligh="left">Tecnologias que tive algum contato</h3>
-<p align="left"> 
+<h3 align="center">Tecnologias que tive algum contato</h3>
+<p align="center"> 
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/> </a> 
