@@ -7,7 +7,7 @@
 
 - 🌱 Atualmente estou aprendendo **React, Typescript e Flutter**
 
-- 👨‍💻 Possuo alguns pequenos templates em [https://codepen.io/johnandante](https://codepen.io/johnandante)
+- 👨‍💻 Possuo alguns pequenos templates e estudos em meu [CodePen](https://codepen.io/johnandante)
 
 - 📫 Entre em contato através do email [wlksilvestre@gmail.com](mailto:wlksilvestre@gmail.com).
 
