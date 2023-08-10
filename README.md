@@ -1,8 +1,6 @@
 <h1 align="center">Olá 🤘, Sou Walker Silvestre</h1>
 <h3 align="center">Um desenvolvedor FullStack iniciante</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=johnandante&label=Profile%20views&color=0e75b6&style=flat" alt="johnandante" /> </p>
-
 🔭 Estou atualmente trabalhando com **alguns projetos privados de uma empresa**
 
 🌱 Atualmente estou aprendendo **React, Typescript e Flutter**
@@ -57,4 +55,7 @@
   
   ![Snake animation](https://github.com/johnandante/JohnAndante/blob/output/github-contribution-grid-snake.svg)
  
+##
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=johnandante&label=Profile%20views&color=0e75b6&style=flat" alt="johnandante" /> </p>
 
