@@ -13,13 +13,15 @@
   
 ##
 
+<!--
 <div align="center">
   <a href="https://github.com/johnandante">
-<!--   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=johnandante&show_icons=true&theme=aura_dark&include_all_commits=true&count_private=true"/> -->
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=johnandante&show_icons=true&theme=aura_dark&include_all_commits=true&count_private=true"/> 
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnandante&layout=compact&langs_count=7&theme=aura_dark"/>
 </div>
 
   ##
+    -->
   
 <h3 align="center">Tecnologias que tive algum contato</h3>
 <p align="center"> 
@@ -51,9 +53,10 @@
   <a href="https://www.linkedin.com/in/walker-silvestre/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-##
+  <!-- 
   
-  ![Snake animation](https://github.com/johnandante/JohnAndante/blob/output/github-contribution-grid-snake.svg)
+##
+  ![Snake animation](https://github.com/johnandante/JohnAndante/blob/output/github-contribution-grid-snake.svg) -->
  
 ##
 
