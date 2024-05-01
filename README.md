@@ -32,23 +32,23 @@
 
 <h2>Linguagens e Ferramentas</h3>
 <h3>Backend</h3>
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,java,cpp,c,cs,dotnet,py)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,java,cpp,c,cs,dotnet,py)](https://skillicons.dev)]
 
 <h3>Frontend</h3>
-[![My Skills](https://skillicons.dev/icons?i=js,react,ts,angular,tailwind,styledcomponents)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,react,ts,angular,tailwind,styledcomponents)](https://skillicons.dev)]
 
 <h3>Banco de Dados</h3>
-[![My Skills](https://skillicons.dev/icons?i=prisma,mysql,sqlite,mongodb,postgresql,firebase)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=prisma,mysql,sqlite,mongodb,postgresql,firebase)](https://skillicons.dev)]
 
 <h3>Mobile</h3>
-[![My Skills](https://skillicons.dev/icons?i=nextjs,react,androidstudio,flutter,dart)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nextjs,react,androidstudio,flutter,dart)](https://skillicons.dev)]
 
 <h3>Desenvolvimento de Jogos</h3>
-[![My Skills](https://skillicons.dev/icons?i=unity,csharp,godot)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=unity,csharp,godot)](https://skillicons.dev)]
 
 
 <h3>Ferramentas</h3>
-[![My Skills](https://skillicons.dev/icons?i=git,github,docker,vercel,figma,ps,notion,blender)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,docker,vercel,figma,ps,notion,blender)](https://skillicons.dev)]
 
 ##
 
