@@ -21,34 +21,45 @@
 ##
 
 <h2>Entre em contato comigo</h2>
-<a href="https://linkedin.com/in/walker-silvestre" target="_blank">
+<a href="https://linkedin.com/in/walker-silvestre" target="_blank" style="text-decoration: none;">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"
     alt='LinkedIn Logo' width='40' height='40'/>
 </a>
-<a href="https://stackoverflow.com/users/19790072/johnandante" target="_blank">
+<a href="https://stackoverflow.com/users/19790072/johnandante" target="_blank" style="text-decoration: none;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/stackoverflow/stackoverflow-original.svg"
     alt='StackOverflow Logo' width='40' height='40'/>
 </a>
 
 <h2>Linguagens e Ferramentas</h3>
 <h3>Backend</h3>
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,java,cpp,c,cs,dotnet,py)](https://skillicons.dev)]
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,java,cpp,c,cs,dotnet,py">
+</a>
 
 <h3>Frontend</h3>
-[![My Skills](https://skillicons.dev/icons?i=js,react,ts,angular,tailwind,styledcomponents)](https://skillicons.dev)]
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=js,react,ts,angular,tailwind,styledcomponents">
+</a>
 
 <h3>Banco de Dados</h3>
-[![My Skills](https://skillicons.dev/icons?i=prisma,mysql,sqlite,mongodb,postgresql,firebase)](https://skillicons.dev)]
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=prisma,mysql,sqlite,mongodb,postgresql,firebase">
+</a>
 
 <h3>Mobile</h3>
-[![My Skills](https://skillicons.dev/icons?i=nextjs,react,androidstudio,flutter,dart)](https://skillicons.dev)]
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=nextjs,react,androidstudio,flutter,dart">
+</a>
 
 <h3>Desenvolvimento de Jogos</h3>
-[![My Skills](https://skillicons.dev/icons?i=unity,csharp,godot)](https://skillicons.dev)]
-
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=unity,cs,godot">
+</a>
 
 <h3>Ferramentas</h3>
-[![My Skills](https://skillicons.dev/icons?i=git,github,docker,vercel,figma,ps,notion,blender)](https://skillicons.dev)]
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vercel,figma,ps,notion,blender">
+</a>
 
 ##
 
@@ -62,7 +73,7 @@
     <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnandante&layout=compact&langs_count=7&theme=aura_dark"/>
     </div>
     <br/>
-    ![Snake animation](https://github.com/johnandante/JohnAndante/blob/output/github-contribution-grid-snake.svg) -->
+    <img src="https://github.com/johnandante/JohnAndante/blob/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
 </details>
 
 
