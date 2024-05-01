@@ -10,7 +10,7 @@
 📫 Entre em contato através do email [**wlksilvestre@gmail.com**](mailto:wlksilvestre@gmail.com)
 
 ⚡ **Faço desenhos, sou apaixonado por jogos e tecnologia no geral**
-
+  
 ##
 
 <div align="center">
