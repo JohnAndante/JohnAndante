@@ -33,7 +33,7 @@
 <h2>Linguagens e Ferramentas</h3>
 <h3>Backend</h3>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,java,cpp,c,cs,dotnet,py">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,java,cpp,c,cs,py">
 </a>
 
 <h3>Frontend</h3>
