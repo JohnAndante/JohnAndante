@@ -33,12 +33,12 @@
 <h2>Linguagens e Ferramentas</h3>
 <h3>Backend</h3>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,java,cpp,c,cs,py">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,java,cpp,c,cs,py,redis,sequelize">
 </a>
 
 <h3>Frontend</h3>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=js,react,ts,angular,tailwind,styledcomponents">
+  <img src="https://skillicons.dev/icons?i=js,react,vite,ts,angular,tailwind,styledcomponents,sass">
 </a>
 
 <h3>Banco de Dados</h3>
@@ -58,7 +58,7 @@
 
 <h3>Ferramentas</h3>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,vercel,figma,ps,notion,blender">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vercel,figma,ps,notion,blender,arch">
 </a>
 
 ##
