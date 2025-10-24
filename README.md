@@ -63,7 +63,7 @@
 
 ##
 
-
+<!--
 <details open>
     <summary>📈 Estatísticas do GitHub</summary>
     <br>
@@ -80,5 +80,5 @@
 
 ##
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=johnandante&label=Profile%20views&color=0e75b6&style=flat" alt="johnandante" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=johnandante&label=Profile%20views&color=0e75b6&style=flat" alt="johnandante" /> </p> -->
 
