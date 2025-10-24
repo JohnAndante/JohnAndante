@@ -10,7 +10,7 @@
 
 <br/>
 
-* 🌱 Atualmente estou aprendendo **React, Typescript, Java e Flutter**, além de desenvolvimento de jogos com **Unity**
+* 🌱 Atualmente trabalho com  **React utilizando Typescript**, estou estudando **Flutter e RUST**, além de desenvolvimento de jogos com **Godot e Unity**
 
 * 👨‍💻 Possuo alguns pequenos templates e estudos em meu [**CodePen**](https://codepen.io/johnandante), porém a maioria dos meus estudos está aqui em meu github, no repositório [**projetos-alura**](https://github.com/JohnAndante/projetos-alura)
 
