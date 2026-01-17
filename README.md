@@ -10,9 +10,9 @@
 
 <br/>
 
-* 🌱 Atualmente trabalho com  **React utilizando Typescript**, estou estudando **Flutter e RUST**, além de desenvolvimento de jogos com **Godot e Unity**
+* 🌱 Atualmente trabalho com  **React**, e estou estudando **GDScript para Godot** para desenvolvimento de jogos.
 
-* 👨‍💻 Possuo alguns pequenos templates e estudos em meu [**CodePen**](https://codepen.io/johnandante), porém a maioria dos meus estudos está aqui em meu github, no repositório [**projetos-alura**](https://github.com/JohnAndante/projetos-alura)
+* 👨‍💻 Possuo alguns pequenos estudos em meu [**CodePen**](https://codepen.io/johnandante), alguns jogos desenvolvidos em meu [**itch.io**](https://johnandante.itch.io), e projetos gerais aqui em meu github.
 
 * 📫 Entre em contato através do email [**wlksilvestre@gmail.com**](mailto:wlksilvestre@gmail.com)
 
