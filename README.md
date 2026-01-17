@@ -20,16 +20,6 @@
 
 ##
 
-<h2>Entre em contato comigo</h2>
-<a href="https://linkedin.com/in/walker-silvestre" target="_blank" style="text-decoration: none;">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"
-    alt='LinkedIn Logo' width='40' height='40'/>
-</a>
-<a href="https://stackoverflow.com/users/19790072/johnandante" target="_blank" style="text-decoration: none;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/stackoverflow/stackoverflow-original.svg"
-    alt='StackOverflow Logo' width='40' height='40'/>
-</a>
-
 <h2>Linguagens e Ferramentas</h3>
 <h3>Backend</h3>
 <a href="https://skillicons.dev">
